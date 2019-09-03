@@ -1,1 +1,2 @@
 This file is merge conflicting the other file
+This is the original merge conflict text file
